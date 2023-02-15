@@ -75,7 +75,7 @@ class _SpeedtestState extends State<Speedtest> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Speed Test Example App'),
+          title: const Text('Speed Test'),
         ),
         body: Center(
           child: Column(
