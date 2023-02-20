@@ -14,37 +14,27 @@ class Flag {
 List<Flag> flaglist = [
   Flag(
     id: 1,
-    image: 'assets/country/flag/ic_vietnamese.png',
-    title: "Vietnam",
+    image: 'images/can.png',
+    title: "Canada",
   ),
   Flag(
     id: 2,
-    image: "assets/country/flag/ic_us.png",
+    image: "images/us.png",
     title: "United States",
   ),
   Flag(
     id: 3,
-    image: "assets/country/flag/ic_ar.png",
-    title: "United Arab Emirates",
+    image: "images/fr.png",
+    title: "France",
   ),
   Flag(
     id: 4,
-    image: "assets/country/flag/ic_thai.png",
-    title: "Thailand",
+    image: "images/uk.png",
+    title: "United Kingdom",
   ),
   Flag(
     id: 5,
-    image: "assets/country/flag/ic_india.png",
-    title: "India",
-  ),
-  Flag(
-    id: 6,
-    image: "assets/country/flag/ic_korean.png",
-    title: "Korea",
-  ),
-  Flag(
-    id: 7,
-    image: "assets/country/flag/ic_japanese.png",
-    title: "Japan",
+    image: "images/tr.png",
+    title: "Turkey",
   ),
 ];
